@@ -1,4 +1,4 @@
-const apiUrl = "http://cors-anywhere.com/https://zenquotes.io/api/random";
+const apiUrl = "https://cors-anywhere.com/https://zenquotes.io/api/random";
 
 const quote = document.getElementById("quote");
 const author = document.getElementById("author");
